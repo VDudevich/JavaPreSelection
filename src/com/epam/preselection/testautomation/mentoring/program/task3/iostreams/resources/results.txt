@@ -1,0 +1,11 @@
+Microwave	3500	Samsung	21	Sensor
+Microwave	4000	LG	18	Manual
+Fridge	1000	Atlant	170	1
+Microwave	1500	Samsung	19	Sensor
+TVset	500	LG	1280x1024
+Microwave	2500	Samsung	21	Manual
+Microwave	4500	Horizont	15	Sensor
+Fridge	1740	Samsung	270	2
+Microwave	700	NoName	25	Sensor
+Fridge	2500	Atlant	310	2
+TVset	880	Samsung	4k
